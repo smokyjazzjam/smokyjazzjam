@@ -4,5 +4,5 @@ Welcome to the **smokyjazzjam** repository!
 
 ## Overview
 
-This repository is dedicated to provide information on the Smoky Mountain Jazz Jam hosted at Folkmoot in Waynesville, NC.
+This repository is used to host files that generate a simple webpage for the Smoky Mountain Jazz Jam.
 
