@@ -1,4 +1,4 @@
-  ![Banner](2D-Silhouette-Of-5-Jazz-Musicians.png)
+  ![Banner](misty_forest.png)
   
   **About The Smoky Mountain Jazz Jam**
    
