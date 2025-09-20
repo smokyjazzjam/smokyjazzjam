@@ -9,7 +9,8 @@ layout: default
  - The Smoky Mountain Jazz Jam is a new monthly jazz jam session held at [Folkmoot](https://www.folkmoot.org/) in Waynesville, NC.
  - The Smoky Mountain jazz jam aims to provide a regular gathering place for jazz musicians in the Western North Carolina to play. 
  - The jam focuses primarily on playing jazz repertoire from the Great American Songbook and from jazz composers.
- - A partial list of tunes that will be played at each monthly jam session can be found here: [Jam Session Tunes](jam_tunes)
+ - A partial list of tunes that will be played at each monthly jam session can be found here: [Jam Session Tunes](jam_tunes.md)
+ - Some frequently asked questions are addressed here: [FAQ](faq.md)
 
  **Where**
  - Folkmoot Website: [Folkmoot](https://www.folkmoot.org/) in Waynesville, NC
