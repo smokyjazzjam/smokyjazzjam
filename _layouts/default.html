@@ -1,27 +1,19 @@
- <!DOCTYPE html>
-   <html>
-   <head>
-     <title>{{ page.title }}</title>
-   </head>
-   <body>
-     {{ content }}
-   </body>
-
-   </html>
-
-   <style>
-  .content {
-    text-align: center;
-    padding: 50px 20px;
-  }
-  
-  .content img {
-    max-width: 100%;
-    height: auto;
-    margin: 20px 0;
-  }
-</style>
-
-<div class="content">
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ page.title }}</title>
+  <style>
+    .container {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    /* ... rest of your CSS ... */
+  </style>
+</head>
+<body>
   {{ content }}
-</div>
+</body>
+</html>
