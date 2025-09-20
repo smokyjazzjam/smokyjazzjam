@@ -6,6 +6,6 @@
   - The jam focuses on playing jazz repertoire from the Great American Songbook and from jazz composers.
   - We hope it will be of interest to amateur (or pro) jazz musicians in Western North Carolina, particularly those living in Haywood and Jackson counties. 
    
-  - A partial list of tunes that will be played at each monthly jam session can be found here: <a href="jam_tunes.md">Jam Tunes</a>
+  - A partial list of tunes that will be played at each monthly jam session can be found here: [Jam Session Tunes](jam_tunes)
    
   contact: smokyjazzjam@gmail.com
