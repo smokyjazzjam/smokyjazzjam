@@ -1,3 +1,8 @@
+---
+title: Jam Session Tunes
+layout: default
+---
+
 # Jam Session Tunes
 - Below is a partial list of tunes to be played a eacg jam
 - Keys listed are in Concert Pitch
