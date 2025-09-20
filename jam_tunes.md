@@ -1,6 +1,4 @@
-# Tunes For Smoky Mountain Jazz Jam
-
-## October 2, 2025: Jam Tunes with Keys 
+# October 2, 2025: Jam Tunes with Keys 
 - Autumn Leaves (G major/E minor)
 - Beautiful Love (D minor)
 - Black Orpheus (A minor)
