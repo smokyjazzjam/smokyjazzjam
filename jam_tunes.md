@@ -1,4 +1,6 @@
-# October 2, 2025: Jam Tunes with Keys 
+# Partial List of Tunes To Be Played At Jam Session With Keys in Concert Pitch
+
+## October 2, 2025: 
 - Autumn Leaves (G major/E minor)
 - Beautiful Love (D minor)
 - Black Orpheus (A minor)
