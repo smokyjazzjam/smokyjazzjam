@@ -1,4 +1,4 @@
- # Smoky Mountain Jazz Jam Home
+  **Smoky Mountain Jazz Jam Home**
    
   The Smoky Mountain Jazz Jam is a new monthly jazz jam session held at <a href="https://www.folkmoot.org/">Folkmoot</a> in Waynesville, NC. 
   Google map with Folkmoot location <a href="https://maps.app.goo.gl/KduAxvnix88e4M369"> here </a>
