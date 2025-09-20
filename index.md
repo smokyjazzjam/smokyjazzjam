@@ -1,8 +1,5 @@
----
-layout: minimal
----
-  
-  ![Banner](misty_forest.jpg)
+
+ ![Banner](misty_forest.jpg)
 
   **About The Smoky Mountain Jazz Jam**
    
@@ -12,8 +9,8 @@ layout: minimal
    - A partial list of tunes that will be played at each monthly jam session can be found here: [Jam Session Tunes](jam_tunes)
 
   Where:
-    Folkmoot Website: [Folkmoot](https://www.folkmoot.org/) 
-    Folkmoot Location: [map](https://maps.app.goo.gl/KduAxvnix88e4M369)
+    - Folkmoot Website: [Folkmoot](https://www.folkmoot.org/) 
+    - Folkmoot Location: [map](https://maps.app.goo.gl/KduAxvnix88e4M369)
   When:
     - Jam sessions will be held on the first Thursday of the month from 7-9 pm
     - Next Jam Session is Thursday, October 2, from 7-9 pm 
