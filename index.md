@@ -1,3 +1,7 @@
+---
+layout: minimal
+---
+  
   ![Banner](misty_forest.jpg)
 
   **About The Smoky Mountain Jazz Jam**
