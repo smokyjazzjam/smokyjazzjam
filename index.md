@@ -1,4 +1,12 @@
   ![Banner](misty_forest.jpg)
+
+  <style>
+body {
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+  line-height: 1.6;
+}
+</style>
   
   **About The Smoky Mountain Jazz Jam**
    
