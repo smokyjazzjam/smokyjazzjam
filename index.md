@@ -1,3 +1,5 @@
+  ![Banner](2D-Silhouette-Of-5-Jazz-Musicians.png)
+  
   **About The Smoky Mountain Jazz Jam**
    
   - The Smoky Mountain Jazz Jam is a new monthly jazz jam session held at [Folkmoot](https://www.folkmoot.org/) in Waynesville, NC.
