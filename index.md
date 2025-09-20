@@ -1,4 +1,5 @@
 ---
+title: Smoky Jazz Jam Home
 layout: default
 ---
  
