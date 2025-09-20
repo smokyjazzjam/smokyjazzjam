@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div style="position: relative; text-align: center;">
-  <img src="misty_forest.jpg" alt="Description" style="width: 100%; height: auto;" />
+  <img src="misty_forest.jpg" alt="misty_forest" style="width: 100%; height: auto;" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 24px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.7);">
     **Smoky Mountain Jazz Jam**
   </div>
