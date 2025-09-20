@@ -3,7 +3,9 @@ title: Smoky Jazz Jam Home
 layout: default
 ---
  
- ![Banner](misty_forest.jpg)
+ <div style="text-align: center;">
+  <img src="misty_forest.jpg" alt="Description" />
+</div>
 
  **About The Smoky Mountain Jazz Jam** 
  - The Smoky Mountain Jazz Jam is a new monthly jazz jam session being held at [the Folkmoot Center of the Arts](https://www.folkmoot.org/) in Waynesville, NC.
