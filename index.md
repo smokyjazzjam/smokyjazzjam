@@ -6,7 +6,7 @@ layout: default
 <div style="text-align: center;">
   <img src="misty_forest.jpg" alt="Description" />
 </div>
-
+<br>
 <div style="text-align: center;">
 
 **About The Smoky Mountain Jazz Jam** 
