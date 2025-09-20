@@ -1,4 +1,5 @@
-# Partial List of Tunes To Be Played At Jam Session With Keys in Concert Pitch
+# Starter List of Tunes To Be Played At Scheduled Jam Session 
+- Keys listed are in Concert Pitch
 
 ## October 2, 2025: 
 - Autumn Leaves (G major/E minor)
