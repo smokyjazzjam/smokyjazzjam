@@ -1,4 +1,5 @@
-# Starter List of Tunes To Be Played At Scheduled Jam Session 
+# Jam Session Tunes
+- Below is a partial list of tunes to be played a eacg jam
 - Keys listed are in Concert Pitch
 
 ## October 2, 2025: 
