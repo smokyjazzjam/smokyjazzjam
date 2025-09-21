@@ -11,9 +11,20 @@ layout: default
   text-align: center;
   display: inline-block;
 }
+.main-title {
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #2c3e50;
+  font-size: 36px;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.8);
+  letter-spacing: 2px;
+}
 .overlay-text {
   position: absolute;
-  top: 20px;
+  top: 100px;
   left: 50%;
   transform: translateX(-50%);
   background-color: rgba(0, 0, 0, 0.7);
@@ -29,6 +40,9 @@ layout: default
 <div style="text-align: center;">
   <div class="image-container">
     <img src="misty_forest.jpg" alt="Description" />
+    <div class="main-title">
+      Smoky Mountain Jazz Jam
+    </div>
     <div class="overlay-text">
       Next Jam Session<br>
       Thursday, October 2, 2025<br>
