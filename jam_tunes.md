@@ -1,5 +1,5 @@
 ---
-title: Jam Session Tunes
+title: Jam Session Song List
 layout: default
 ---
 <style>
@@ -22,10 +22,10 @@ layout: default
 </style>
 
 <div class="tunes-content">
-  <h1><strong>Jam Session Tunes</strong></h1>
+  <h1><strong>Jam Session Song Lists</strong></h1>
 
   <ul class="tunes-info">
-    <li>Below is a partial list of tunes to be played at the indicated jam sessions</li>
+    <li>Below is a partial list of songs to be played at the indicated jam sessions</li>
     <li>Keys listed are in Concert Pitch</li>
   </ul>
 
