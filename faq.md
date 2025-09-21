@@ -8,12 +8,12 @@ layout: default
   margin: 0 auto;
 }
 .faq-question {
-  font-size: 18px;
+  font-size: 20px;
   margin-top: 20px;
   margin-bottom: 10px;
 }
 .faq-answer {
-  font-size: 16px;
+  font-size: 18px;
   margin-bottom: 15px;
 }
 </style>
