@@ -4,7 +4,7 @@ layout: default
 ---
 <style>
 .larger-text {
-  font-size: 20px;
+  font-size: 18px;
 }
 </style>
 
@@ -40,5 +40,7 @@ layout: default
   </ul>
 
   <h2><strong>Contact</strong>:</h2>
-  <p class="larger-text">smokyjazzjam@gmail.com</p>
+  <ul class="larger-text">
+    <li>smokyjazzjam@gmail.com</li>
+  </ul>
 </div>
