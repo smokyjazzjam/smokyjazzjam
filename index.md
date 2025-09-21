@@ -4,7 +4,7 @@ layout: default
 ---
 <style>
 .larger-text {
-  font-size: 18px;
+  font-size: 19px;
 }
 </style>
 
