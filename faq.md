@@ -38,7 +38,6 @@ layout: default
   <ul class="faq-answer">
     <li> Players should have prior experience playing jazz and generally be familiar with soloing over song forms, trading fours and playing basic intros/endings.</li> 
     <li> To be clear though, this is not a pro jam and amateurs with a little experience are welcome. The hosts are not professional musicians and consider themselves to be intermediate-level jazz players.</li>
-    <li></li>
   </ul>
 
   <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets during the jam?</strong></h3>
