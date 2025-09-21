@@ -2,8 +2,16 @@
 title: Smoky Jazz Jam Home
 layout: default
 ---
+<style>
+.larger-text {
+  font-size: 18px; /* or 1.2em, or 120% */
+}
+</style>
+
+<div class="larger-text">
 <div style="text-align: center;">
   <img src="misty_forest.jpg" alt="Description" />
+</div>
 
 <br>
 <br>
@@ -25,4 +33,4 @@ layout: default
   
 ## **Contact**: smokyjazzjam@gmail.com
 
-</div>
+
