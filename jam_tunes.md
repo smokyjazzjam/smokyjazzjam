@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Jam Session Tunes
-- Below is a partial list of tunes to be played a eacg jam
+- Below is a partial list of tunes to be played at the indicated jam sessions
 - Keys listed are in Concert Pitch
 
 ## October 2, 2025: 
