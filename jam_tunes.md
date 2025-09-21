@@ -2,19 +2,45 @@
 title: Jam Session Tunes
 layout: default
 ---
+<style>
+.tunes-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.tunes-info {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.jam-date {
+  font-size: 20px;
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+.tune-list {
+  font-size: 18px;
+}
+</style>
 
-# Jam Session Tunes
-- Below is a partial list of tunes to be played at the indicated jam sessions
-- Keys listed are in Concert Pitch
+<div class="tunes-content">
+  <h1><strong>Jam Session Tunes</strong></h1>
 
-## October 2, 2025: 
-- Autumn Leaves (G major/E minor)
-- Beautiful Love (D minor)
-- Black Orpheus (A minor)
-- Blue Monk (Bb major)
-- I Can't Give You Anything But Love (G major)
-- Ladybird (C major)
-- My Romance (Bb major)
-- Someday My Prince Will Come (Bb major)
-- Take The A Train (C major)
-- Wave (D major)
+  <ul class="tunes-info">
+    <li>Below is a partial list of tunes to be played at the indicated jam sessions</li>
+    <li>Keys listed are in Concert Pitch</li>
+  </ul>
+
+  <h2 class="jam-date"><strong>October 2, 2025:</strong></h2>
+  
+  <ul class="tune-list">
+    <li>Autumn Leaves (G major/E minor)</li>
+    <li>Beautiful Love (D minor)</li>
+    <li>Black Orpheus (A minor)</li>
+    <li>Blue Monk (Bb major)</li>
+    <li>I Can't Give You Anything But Love (G major)</li>
+    <li>Ladybird (C major)</li>
+    <li>My Romance (Bb major)</li>
+    <li>Someday My Prince Will Come (Bb major)</li>
+    <li>Take The A Train (C major)</li>
+    <li>Wave (D major)</li>
+  </ul>
+</div>
