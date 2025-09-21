@@ -120,7 +120,7 @@ layout: default
     <li>The next jam session is on Thursday, October 2, from 7-9 pm</li>
   </ul>
 
-  <h2><strong>Contact</strong>:</h2>
+  <h2><strong>Contact</strong></h2>
   <ul class="larger-text">
     <li>smokyjazzjam@gmail.com</li>
   </ul>
