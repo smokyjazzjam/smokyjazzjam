@@ -1,10 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smoky Jazz Jam Home</title>
-    <style>
+---
+title: Smoky Jazz Jam Home
+layout: default
+---
+<style>
         body {
             margin: 0;
             padding: 0;
@@ -101,8 +99,6 @@
             }
         }
     </style>
-</head>
-<body>
     <div class="page-wrapper">
         <div class="image-container">
             <img src="misty_forest.jpg" alt="Misty Forest Background" />
@@ -146,5 +142,3 @@
             <li>smokyjazzjam@gmail.com</li>
         </ul>
     </div>
-</body>
-</html>
