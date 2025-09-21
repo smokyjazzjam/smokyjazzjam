@@ -45,3 +45,9 @@ layout: default
     <li>Yes, it's fine.</li>
   </ul>
 </div>
+
+<h3 class="faq-question"><strong>Is there a cost to participate?</strong></h3>
+  <ul class="faq-answer">
+    <li>There is a $5 suggested donation to support Folkmoot.</li>
+  </ul>
+</div>
