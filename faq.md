@@ -36,6 +36,7 @@ layout: default
   <h3 class="faq-question"><strong>What is the level of musicianship at the jam?</strong></h3>
   <ul class="faq-answer">
     <li>This depends in part on who comes out to a given jam, however the hosts are not professional musicians and consider themselves to be intermediate-level jazz players.</li>
+    <li>Ideally, to participate you will have had some experience playing jazz on your instrument and can generally follow standard song forms.</li>
   </ul>
 
   <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets?</strong></h3>
