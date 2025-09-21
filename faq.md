@@ -34,13 +34,14 @@ layout: default
     <li>Guitarists and Electric Bass Players should bring an amp.</li>
   </ul>
 
-  <h3 class="faq-question"><strong>What is the level of musicianship at the jam?</strong></h3>
+  <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
   <ul class="faq-answer">
-    <li>This depends in part on who comes out to a given jam, however the hosts are not professional musicians and consider themselves to be intermediate-level jazz players.</li>
-    <li>Ideally, to participate you will have had some experience playing jazz on your instrument and can generally follow standard song forms.</li>
+    <li> Players should have prior experience playing jazz and generally be familiar with soloing over song forms, trading fours and playing basic intros/endings.</li> 
+    <li> To be clear though, this is not a pro jam and amateurs with a little experience are welcome. The hosts are not professional musicians and consider themselves to be intermediate-level jazz players.</li>
+    <li></li>
   </ul>
 
-  <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets?</strong></h3>
+  <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets during the jam?</strong></h3>
   <ul class="faq-answer">
     <li>Yes, it's fine.</li>
   </ul>
