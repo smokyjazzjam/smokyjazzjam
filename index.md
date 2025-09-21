@@ -4,7 +4,7 @@ layout: default
 ---
 <div style="text-align: center;">
   <img src="misty_forest.jpg" alt="Description" />
-</div>
+
 <br>
 <br>
 
@@ -24,3 +24,5 @@ layout: default
 - Next Jam Session is on Thursday, October 2, from 7-9 pm 
   
 ## **Contact**: smokyjazzjam@gmail.com
+
+</div>
