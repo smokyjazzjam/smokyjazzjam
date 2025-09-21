@@ -99,11 +99,11 @@ layout: default
   <h1><strong>About The Smoky Mountain Jazz Jam</strong></h1>
 
   <ul class="larger-text">
-    <li>The Smoky Mountain Jazz Jam is a new monthly jazz jam session being held at <a href="https://www.folkmoot.org/">the Folkmoot Center of the Arts</a> in Waynesville, NC.</li>
+    <li>The Smoky Mountain Jazz Jam is a new monthly jazz jam session being held at the Folkmoot Center of the Arts in Waynesville, NC.</li>
     <li>We hope to provide a regular gathering place for jazz musicians in the Western North Carolina to play.</li>
     <li>The jam focuses primarily on playing jazz repertoire from the Great American Songbook and from jazz composers.</li>
-    <li>A partial list of tunes that will be played at each monthly jam session can be found here: <a href="jam_tunes.md">Jam Session Tunes</a></li>
-    <li>Some frequently asked questions are addressed here: <a href="faq.md">FAQ</a></li>
+    <li>A partial list of tunes that will be played at each monthly jam session can be found here: <a href="jam_tunes">Jam Session Tunes</a></li>
+    <li>Some frequently asked questions are addressed here: <a href="faq">FAQ</a></li>
   </ul>
 
   <h2><strong>Where</strong></h2>
