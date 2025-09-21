@@ -30,6 +30,7 @@ layout: default
   <ul class="larger-text">
     <li><a href="https://www.folkmoot.org/">Folkmoot Center for the Arts</a> in Waynesville, NC</li>
     <li>Address: <a href="https://maps.app.goo.gl/KduAxvnix88e4M369">Building B, 1122 Virginia Avenue, Waynesville, NC</a></li>
+    <li>The jam will be held in the auditorium.</li>
   </ul>
 
   <h2><strong>When</strong></h2>
