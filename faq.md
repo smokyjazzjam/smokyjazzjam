@@ -48,7 +48,7 @@ layout: default
 
   <h3 class="faq-question"><strong>How's the parking?</strong></h3>
   <ul class="faq-answer">
-    <li>Parking should be easy to find along Virginia avenue in front of Folkmoot.</li>
+    <li>Parking should be easy to find along Virginia Avenue in front of Folkmoot.</li>
     <li>Parking in the alley behind Folkmoot is also available if necessary for loading/unloading.</li>
   </ul>
 
