@@ -29,6 +29,7 @@ layout: default
 
   <h3 class="faq-question"><strong>What gear do I need to bring?</strong></h3>
   <ul class="faq-answer">
+    <li>Your instrument, of course!</li>
     <li>There will be a keyboard, drum kit and microphone with PA provided at the jam.</li>
     <li>Guitarists and Electric Bass Players should bring an amp.</li>
   </ul>
