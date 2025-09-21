@@ -51,7 +51,6 @@ layout: default
   </div>
 </div>
 <br>
-<br>
 
 <div style="max-width: 800px; margin: 0 auto;">
   <h1><strong>About The Smoky Mountain Jazz Jam</strong></h1>
@@ -63,7 +62,9 @@ layout: default
     <li>A partial list of tunes that will be played at each monthly jam session can be found here: <a href="jam_tunes">Jam Session Tunes</a></li>
     <li>Some frequently asked questions are addressed here: <a href="faq">FAQ</a></li>
   </ul>
-
+  
+  <br>
+  
   <h2><strong>Where</strong></h2>
 
   <ul class="larger-text">
@@ -71,6 +72,8 @@ layout: default
     <li>Address: <a href="https://maps.app.goo.gl/KduAxvnix88e4M369">Building B, 1122 Virginia Avenue, Waynesville, NC</a></li>
   </ul>
 
+  <br>
+  
   <h2><strong>When</strong></h2>
 
   <ul class="larger-text">
@@ -78,7 +81,9 @@ layout: default
     <li>Next Jam Session is on Thursday, October 2, from 7-9 pm</li>
   </ul>
 
-  <h2><strong>Contact</strong>:</h2>
+  <br>
+
+  <h2><strong>Contact</strong></h2>
   <ul class="larger-text">
     <li>smokyjazzjam@gmail.com</li>
   </ul>
