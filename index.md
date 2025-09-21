@@ -37,7 +37,7 @@ layout: default
 
   <ul class="larger-text">
     <li>Jam sessions will be held on the first Thursday of the month from 7-9 pm</li>
-    <li>Next Jam Session is on Thursday, October 2, from 7-9 pm</li>
+    <li>The next jam session is on Thursday, October 2, from 7-9 pm</li>
   </ul>
 
   <h2><strong>Contact</strong>:</h2>
