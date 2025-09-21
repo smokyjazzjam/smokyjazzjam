@@ -13,4 +13,9 @@ layout: default
 - There will be a keyboard and drum kit at the jam
 - Guitarists and Electric Bass Players should bring an amp
 
+**What is the level of musicianship at the jam?**
+- This depends in part on who comes out to a given jam, however the hosts are not professional musicians but rather are intermediate-level amateur players
+
+**Is it ok to use a fakebook/lead sheets?**
+- Yes, it's fine
 
