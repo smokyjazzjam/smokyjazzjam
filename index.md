@@ -44,7 +44,7 @@ layout: default
       Smoky Mountain Jazz Jam
     </div>
     <div class="overlay-text">
-      Next Jam Session<br>
+      Next Jam Session:<br>
       Thursday, October 2, 2025<br>
       7:00 - 9:00 PM
     </div>
