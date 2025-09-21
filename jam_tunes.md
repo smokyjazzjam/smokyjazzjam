@@ -26,7 +26,7 @@ layout: default
 
   <ul class="tunes-info">
     <li>Below is a partial list of songs to be played at the indicated jam sessions</li>
-    <li>Keys listed are in concert pitch</li>
+    <li>Keys listed for each song are in concert pitch</li>
   </ul>
 
   <h2 class="jam-date"><strong>October 2, 2025:</strong></h2>
