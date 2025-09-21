@@ -63,16 +63,12 @@ layout: default
     <li>Some frequently asked questions are addressed here: <a href="faq">FAQ</a></li>
   </ul>
   
-  <br>
-  
   <h2><strong>Where</strong></h2>
 
   <ul class="larger-text">
     <li><a href="https://www.folkmoot.org/">Folkmoot Center for the Arts</a> in Waynesville, NC</li>
     <li>Address: <a href="https://maps.app.goo.gl/KduAxvnix88e4M369">Building B, 1122 Virginia Avenue, Waynesville, NC</a></li>
   </ul>
-
-  <br>
   
   <h2><strong>When</strong></h2>
 
@@ -80,8 +76,6 @@ layout: default
     <li>Jam sessions will be held on the first Thursday of the month from 7-9 pm</li>
     <li>Next Jam Session is on Thursday, October 2, from 7-9 pm</li>
   </ul>
-
-  <br>
 
   <h2><strong>Contact</strong></h2>
   <ul class="larger-text">
