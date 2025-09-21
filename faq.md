@@ -32,6 +32,7 @@ layout: default
     <li>Your instrument, of course!</li>
     <li>There will be a keyboard, drum kit and microphone with PA provided at the jam.</li>
     <li>Guitarists, Electric Bass Players or players of other instruments typically needing amplification should bring an amp.</li>
+    <li>You should also bring a music stand and possibly a stand light if you need it for reading music/leadsheets.</li>
   </ul>
 
   <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
