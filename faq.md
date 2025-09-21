@@ -23,7 +23,7 @@ layout: default
 
   <h3 class="faq-question"><strong>What instruments can play at the jam?</strong></h3>
   <ul class="faq-answer">
-    <li>All instruments are welcome including vocalists.</li>
+    <li>All instruments are welcome, including vocalists.</li>
     <li>Vocalists, if there are specific songs in specific keys that you would like to sing it would be best to contact us in advance at smokyjazzjam@gmail.com</li>
   </ul>
 
@@ -31,7 +31,7 @@ layout: default
   <ul class="faq-answer">
     <li>Your instrument, of course!</li>
     <li>There will be a keyboard, drum kit and microphone with PA provided at the jam.</li>
-    <li>Guitarists and Electric Bass Players should bring an amp.</li>
+    <li>Guitarists, Electric Bass Players or players of other instruments typically needing amplification should bring an amp.</li>
   </ul>
 
   <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
