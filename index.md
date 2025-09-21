@@ -4,7 +4,7 @@ layout: default
 ---
 <style>
 .larger-text {
-  font-size: 19px;
+  font-size: 20px;
 }
 .image-container {
   position: relative;
