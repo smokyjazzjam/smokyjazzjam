@@ -20,8 +20,7 @@ layout: default
 
 <div class="faq-content">
   <h1><strong>Frequently Asked Questions</strong></h1>
-
-    <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
+    <h3 class="faq-question"><strong>What level of experience is needed to participate in the jam session?</strong></h3>
   <ul class="faq-answer">
     <li> We welcome players with some prior experience playing jazz. You should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
          The hosts—who consider themselves to be intermediate-level jazz musicians—aim to create a supportive, relaxed environment.</li>   
