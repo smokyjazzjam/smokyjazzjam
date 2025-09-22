@@ -22,7 +22,7 @@ layout: default
   <h1><strong>Frequently Asked Questions</strong></h1>
     <h3 class="faq-question"><strong>What level of experience is needed to participate in the jam session?</strong></h3>
   <ul class="faq-answer">
-    <li> We welcome players with some prior experience playing jazz. You should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
+    <li> We welcome amateur players with some prior experience playing jazz. You should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
          The hosts—who consider themselves to be intermediate-level jazz musicians—aim to create a supportive, relaxed environment.</li>   
   </ul>
 
@@ -40,9 +40,9 @@ layout: default
   <h3 class="faq-question"><strong>What gear do I need to bring?</strong></h3>
   <ul class="faq-answer">
     <li>Your instrument, of course!</li>
-    <li>There will be a keyboard, drum kit and microphone with PA provided at the jam.</li>
-    <li>Guitarists, bassists or players of other instruments typically needing amplification should bring an amp.</li>
-    <li>You should also bring a music stand and possibly a stand light if you need it for reading music/leadsheets.</li>
+    <li>A keyboard, drum kit and microphone with PA provided at the jam.</li>
+    <li>Guitarists, bassists and others needing amplification should bring an amp.</li>
+    <li>A music stand (and stand light) is also recommended.</li>
   </ul>
 
   <h3 class="faq-question"><strong>What is the format/ground rules of the jam?</strong></h3>
@@ -53,16 +53,18 @@ layout: default
     <li>Players who not performing should sit quietly in the audience.</li>
   </ul>
 
-  <h3 class="faq-question"><strong>How's the parking?</strong></h3>
-  <ul class="faq-answer">
-    <li>Parking should be easy to find along Virginia Avenue in front of Folkmoot.</li>
-    <li>Parking in the alley behind Folkmoot is also available if necessary for loading/unloading.</li>
-  </ul>
-
   <h3 class="faq-question"><strong>Is there a cost to participate?</strong></h3>
   <ul class="faq-answer">
     <li>There is a $5 suggested donation to support Folkmoot.</li>
   </ul>
+
+  <h3 class="faq-question"><strong>How's the parking?</strong></h3>
+  <ul class="faq-answer">
+    <li>Parking should be easy to find along Virginia Avenue in front of Folkmoot.</li>
+    <li>Additional parking is available in the alley behind the building for loading/unloading..</li>
+  </ul>
+
+  
 </div>
 
 
