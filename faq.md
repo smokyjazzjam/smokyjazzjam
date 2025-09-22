@@ -45,7 +45,7 @@ layout: default
     <li>A music stand (and stand light) is also recommended.</li>
   </ul>
 
-  <h3 class="faq-question"><strong>What is the format/ground rules of the jam?</strong></h3>
+  <h3 class="faq-question"><strong>Are there any ground rules for the jam?</strong></h3>
   <ul class="faq-answer">
     <li>No more than seven musicians per song.</li>
     <li>Players may need to rotate in/out after each song.</li>
