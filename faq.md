@@ -37,8 +37,9 @@ layout: default
 
   <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
   <ul class="faq-answer">
-    <li> Players should have prior experience playing jazz and generally be familiar with soloing over song forms, trading fours and playing basic intros/endings.</li> 
-    <li> To be clear though, this is not a pro jam and amateurs with a little experience are welcome. The hosts are not professional musicians and consider themselves to be intermediate-level jazz players.</li>
+    <li> We welcome players with some prior experience playing jazz. You should be comfortable soloing over song forms, trading fours, and playing basic intros and endings.
+         That said, this is not a strictly professional jam session. Amateurs with some experience are absolutely welcome, 
+         and the hosts—who consider themselves intermediate-level jazz musicians—aim to create a supportive, relaxed environment.</li>   
   </ul>
 
   <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets during the jam?</strong></h3>
