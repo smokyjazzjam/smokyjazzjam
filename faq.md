@@ -50,7 +50,7 @@ layout: default
     <li>No more than seven musicians per song.</li>
     <li>Players may need to rotate in/out after each song.</li>
     <li>We will likely use a sign up sheet for each song if there are a lot of players in attendance.</li>
-    <li>Players who are not performing should sit quietly in the audience.</li>
+    <li>Players who are not performing should listen quietly in the audience.</li>
   </ul>
 
   <h3 class="faq-question"><strong>Is there a cost to participate?</strong></h3>
