@@ -22,7 +22,7 @@ layout: default
   <h1><strong>Frequently Asked Questions</strong></h1>
     <h3 class="faq-question"><strong>What level of experience is needed to participate in the jam session?</strong></h3>
   <ul class="faq-answer">
-    <li> We welcome amateur players with some prior experience playing jazz. You should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
+    <li> We welcome amateur players with some prior experience playing jazz. Players should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
          The hosts—who consider themselves to be intermediate-level jazz musicians—aim to create a supportive, relaxed environment.</li>   
   </ul>
 
@@ -40,7 +40,7 @@ layout: default
   <h3 class="faq-question"><strong>What gear do I need to bring?</strong></h3>
   <ul class="faq-answer">
     <li>Your instrument, of course!</li>
-    <li>A keyboard, drum kit and microphone with PA provided at the jam.</li>
+    <li>A keyboard, drum kit and microphone with PA will be provided at the jam.</li>
     <li>Guitarists, bassists and others needing amplification should bring an amp.</li>
     <li>A music stand (and stand light) is also recommended.</li>
   </ul>
@@ -48,9 +48,9 @@ layout: default
   <h3 class="faq-question"><strong>What is the format/ground rules of the jam?</strong></h3>
   <ul class="faq-answer">
     <li>No more than seven musicians per song.</li>
-    <li>Players will need to rotate in/out after each song.</li>
+    <li>Players may need to rotate in/out after each song.</li>
     <li>We will likely use a sign up sheet for each song if there are a lot of players in attendance.</li>
-    <li>Players who not performing should sit quietly in the audience.</li>
+    <li>Players who are not performing should sit quietly in the audience.</li>
   </ul>
 
   <h3 class="faq-question"><strong>Is there a cost to participate?</strong></h3>
