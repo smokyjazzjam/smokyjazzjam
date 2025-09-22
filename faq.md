@@ -21,6 +21,17 @@ layout: default
 <div class="faq-content">
   <h1><strong>Frequently Asked Questions</strong></h1>
 
+    <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
+  <ul class="faq-answer">
+    <li> We welcome players with some prior experience playing jazz. You should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
+         The hosts—who consider themselves to be intermediate-level jazz musicians—aim to create a supportive, relaxed environment.</li>   
+  </ul>
+
+   <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets during the jam?</strong></h3>
+  <ul class="faq-answer">
+    <li>Yes, it's fine.</li>
+  </ul>
+
   <h3 class="faq-question"><strong>What instruments can play at the jam?</strong></h3>
   <ul class="faq-answer">
     <li>All instruments are welcome, including vocalists.</li>
@@ -35,15 +46,12 @@ layout: default
     <li>You should also bring a music stand and possibly a stand light if you need it for reading music/leadsheets.</li>
   </ul>
 
-  <h3 class="faq-question"><strong>What is the level of experience needed to participate?</strong></h3>
+  <h3 class="faq-question"><strong>What is the format/ground rules of the jam?</strong></h3>
   <ul class="faq-answer">
-    <li> We welcome players with some prior experience playing jazz. You should be familiar with soloing over song forms, trading fours, and playing basic intros and endings.
-         The hosts—who consider themselves to be intermediate-level jazz musicians—aim to create a supportive, relaxed environment.</li>   
-  </ul>
-
-  <h3 class="faq-question"><strong>Is it ok to use a fakebook/lead sheets during the jam?</strong></h3>
-  <ul class="faq-answer">
-    <li>Yes, it's fine.</li>
+    <li>No more than seven musicians per song.</li>
+    <li>Players will need to rotate in/out after each song.</li>
+    <li>We will likely use a sign up sheet for each song if there are a lot of players in attendance.</li>
+    <li>Players who not performing should sit quietly in the audience.</li>
   </ul>
 
   <h3 class="faq-question"><strong>How's the parking?</strong></h3>
