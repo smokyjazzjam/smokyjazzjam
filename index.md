@@ -87,8 +87,8 @@ layout: default
     </div>
     <div class="overlay-text">
       Next Jam Session<br>
-      Thursday, October 2, 2025<br>
-      7:00 - 9:00 PM
+      To Be Announced<br>
+      Time of jam here
     </div>
   </div>
 </div>
@@ -116,8 +116,8 @@ layout: default
   <h2><strong>When</strong></h2>
 
   <ul class="larger-text">
-    <li>Jam sessions will be held on the first Thursday of the month from 7-9 pm</li>
-    <li>The next jam session is on Thursday, October 2, from 7-9 pm</li>
+    <li>Jam sessions will be held on the ... (recurring day of month/week)</li>
+    <li>The next jam session will be announced soon.</li>
   </ul>
 
   <h2><strong>Contact</strong></h2>
